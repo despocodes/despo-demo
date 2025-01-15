@@ -1,2 +1,3 @@
 # despo-demo
-my first Git test repo
+First Git Test Repository
+Author - Jayanta Munda
